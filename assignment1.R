@@ -1,5 +1,7 @@
+# Additional edit
+
 # Statistics One, Assignment 1
-# Paul-Gabriel Müller
+# Paul-Gabriel MÃ¼ller
 # Read the data, plot and "describe"
 
 library(psych)
